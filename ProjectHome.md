@@ -1,0 +1,1 @@
+The purpose of this project is to show how to write a simple FUSE file system in C++. The code is as simple as possible.
